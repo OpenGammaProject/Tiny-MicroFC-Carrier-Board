@@ -5,8 +5,8 @@ Tiny carrier board for a 6 mm C-Series MICROFC-60035-SMT silicon photomultiplier
 PCB size is 10 x 10 mm. The solder pads for the SiPM are slightly bigger than they need to so that you can easily hand-solder everything! You can buy all the parts and the PCB using [Kitspace](https://kitspace.org/boards/github.com/opengammaproject/Tiny-MicroFC-Carrier-Board/).
 
 <p align="center">
-  <img alt="Front Side PCB" title="Front Side PCB" src="docs/sipm1.PNG" height="400px">
-  <img alt="Back Side PCB" title="Back Side PCB" src="docs/sipm2.PNG" height="400px">
+  <img alt="Front Side PCB" title="Front Side PCB" src="docs/sipm1.png" height="400px">
+  <img alt="Back Side PCB" title="Back Side PCB" src="docs/sipm2.png" height="400px">
 </p>
 
 On the front side there is only the sensor itself while all the other parts are on the back. This ensures good optical contact and light-tight sealing.
