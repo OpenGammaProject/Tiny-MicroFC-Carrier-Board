@@ -8,6 +8,7 @@ PCB size is 10 x 10 mm. The solder pads for the SiPM are slightly bigger than th
   <img alt="Front Side PCB" title="Front Side PCB" src="docs/pcb_front.jpg" height="300px">
   <img alt="Back Side PCB" title="Back Side PCB" src="docs/pcb_back.jpg" height="300px">
 </p>
+_Photos of an older revision of the board, same footprint._
 
 <p align="center">
   <img alt="Front Side PCB Rendering" title="Front Side PCB Rendering" src="docs/sipm1.png" height="300px">
