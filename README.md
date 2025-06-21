@@ -28,3 +28,5 @@ If you are connecting straight to the SiPM, do so via the cathode `C` and anode 
 <p align="center">
   <img alt="SiPM Orientation" title="SiPM Orientation" src="docs/SiPM-orientation.jpg" width="32%">
 </p>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J61GLR3G)
